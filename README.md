@@ -60,7 +60,8 @@ BTech CSE (AI/ML) student targeting Data Analyst roles with a focus on practical
 ---
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> “Numbers have an important story to tell. They rely on you to give them a voice.”  
+> — Stephen Few
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
